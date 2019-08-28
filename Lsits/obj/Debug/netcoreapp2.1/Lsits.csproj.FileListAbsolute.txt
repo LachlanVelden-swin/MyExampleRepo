@@ -1,0 +1,10 @@
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Lsits\obj\Debug\netcoreapp2.1\Lsits.csproj.CoreCompileInputs.cache
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Lsits\obj\Debug\netcoreapp2.1\Lsits.AssemblyInfoInputs.cache
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Lsits\obj\Debug\netcoreapp2.1\Lsits.AssemblyInfo.cs
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Lsits\bin\Debug\netcoreapp2.1\Lsits.deps.json
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Lsits\bin\Debug\netcoreapp2.1\Lsits.runtimeconfig.json
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Lsits\bin\Debug\netcoreapp2.1\Lsits.runtimeconfig.dev.json
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Lsits\bin\Debug\netcoreapp2.1\Lsits.dll
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Lsits\bin\Debug\netcoreapp2.1\Lsits.pdb
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Lsits\obj\Debug\netcoreapp2.1\Lsits.dll
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Lsits\obj\Debug\netcoreapp2.1\Lsits.pdb

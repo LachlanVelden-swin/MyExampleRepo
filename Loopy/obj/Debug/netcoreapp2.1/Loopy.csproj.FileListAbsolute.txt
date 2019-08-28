@@ -1,0 +1,11 @@
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Loopy\bin\Debug\netcoreapp2.1\Loopy.deps.json
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Loopy\bin\Debug\netcoreapp2.1\Loopy.runtimeconfig.json
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Loopy\bin\Debug\netcoreapp2.1\Loopy.runtimeconfig.dev.json
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Loopy\bin\Debug\netcoreapp2.1\Loopy.dll
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Loopy\bin\Debug\netcoreapp2.1\Loopy.pdb
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Loopy\obj\Debug\netcoreapp2.1\Loopy.csprojAssemblyReference.cache
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Loopy\obj\Debug\netcoreapp2.1\Loopy.csproj.CoreCompileInputs.cache
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Loopy\obj\Debug\netcoreapp2.1\Loopy.AssemblyInfoInputs.cache
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Loopy\obj\Debug\netcoreapp2.1\Loopy.AssemblyInfo.cs
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Loopy\obj\Debug\netcoreapp2.1\Loopy.dll
+C:\Users\ldvandervelden\Documents\Github\MyExampleRepo\Loopy\obj\Debug\netcoreapp2.1\Loopy.pdb
